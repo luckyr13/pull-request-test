@@ -1,0 +1,14 @@
+{
+	"HOME": {
+		"SECONDARY_TITLE": "Welcome to the permaweb!"
+	},
+	"MAIN_MENU": {
+		"HOME": "Home"
+	},
+	"MAIN_TOOLBAR": {
+		"TOOLTIP_LOGIN": "Login",
+		"MENU_SETTINGS_LANGUAGE": "Select language",
+		"MENU_SETTINGS_THEME": "Select theme",
+		"MENU_SETTINGS_APP_INFO": "App info"
+	}
+}
